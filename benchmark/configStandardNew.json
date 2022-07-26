@@ -1,0 +1,19 @@
+{
+  "p2pPort": 6000,
+  "validators": [
+    "dlcpoa",
+    "thrusted"
+  ],
+  "httpServer": "localhost",
+  "httpPort": 3001,
+  "enableMessaging": false,
+  "rpcPassword": "",
+  "blockAcceptCount": 0,
+  "maxPeers": 25,
+  "workDir": ".",
+  "walletFile": "wallet.json",
+  "transactionIndexEnable": false,
+  "initialPeers": [],
+  "blocksDB": "blocks",
+  "walletsDB": false
+}
