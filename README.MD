@@ -9,7 +9,7 @@ To get started, make sure you have software: Git, Docker Engine
    <br><br>
    Use next command for cloning <br>
    ```bash
-   # git clone https://github.com/Izzzio/izzzio-solar sollar_blockchain
+   # git clone https://github.com/SollarChain/sollar-node sollar_blockchain
    ```
    
 ## 2. To starting node
